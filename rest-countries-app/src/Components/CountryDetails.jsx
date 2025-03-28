@@ -30,4 +30,4 @@ function CountryDetails({ country, onBackClick }) {
   );
 }
 
-export default CountryDetails;
+export default CountryDetails
